@@ -7,3 +7,4 @@
     3. *Template Literal* basically **Template Literall** is using back-tick *`* to delineate a template literal. This distingushes from traditional JavaScript
         strings that are delineated with single or double quotes. 
     4. *Spread Operator* basically like variadic function in Golang _(...params)_ 
+    5. *Class*  just like regular class but with *ES6* syntax it more clearer and simpler compared to traditional javascript class 
