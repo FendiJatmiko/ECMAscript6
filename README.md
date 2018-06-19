@@ -6,4 +6,4 @@
         that look like **fat** arrow 
     3. *Template Literal* basically **Template Literall** is using back-tick *`* to delineate a template literal. This distingushes from traditional JavaScript
         strings that are delineated with single or double quotes. 
-    4. :
+    4. *Spread Operator* basically like variadic function in Golang _(...params)_ 
