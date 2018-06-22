@@ -14,3 +14,21 @@ function* nyobiGenerator(){
 let caller = nyobiGenerator();
 console.log(caller.next());
 console.log(caller.next().value);
+
+
+console.log('------------------');
+
+//simplest use case of generator 
+function* getNextId(){
+    let id = 0;
+    while(id < 5)
+        yield id++;
+}
+//oh, the return value of generator is by default object, so  if you want to print only the value 
+// you can use, .value
+let createId = getNextId();
+console.log(createId.next().value);
+//it would return 0, and then after loop and call it again, it would return the increment
+//value of 1, and so on...
+console.log(createId.next().value);
+console.log(createId.next().value);
