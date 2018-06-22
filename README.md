@@ -10,5 +10,5 @@
 5. *Class*  just like regular class but with *ES6* syntax it more clearer and simpler compared to traditional javascript class 
 6. *Inheritance* like any other *Inheritance*, it take the *superClass* or *parentClass* and then the *childClass* have those
     attribute and method, and have addition attribute and/or method 
-7, *Generator* are functions which can be exited and later re-entered. Their context(variable bindings) will saved across re-entracnes, usually 
+7. *Generator* are functions which can be exited and later re-entered. Their context(variable bindings) will saved across re-entracnes, usually 
     are used in Promises and very powerful tool for asyncronous as they eliminate the problems with callbacks 
