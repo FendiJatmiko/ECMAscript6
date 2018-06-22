@@ -10,3 +10,4 @@
 5. *Class*  just like regular class but with *ES6* syntax it more clearer and simpler compared to traditional javascript class 
 6. *Inheritance* like any other *Inheritance*, it take the *superClass* or *parentClass* and then the *childClass* have those
     attribute and method, and have addition attribute and/or method 
+7, *Generator* 
